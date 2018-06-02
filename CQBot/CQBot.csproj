@@ -40,6 +40,7 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -50,12 +51,15 @@
   <ItemGroup>
     <Compile Include="Assist\DB\SqlHelper.cs" />
     <Compile Include="Assist\Extension\BullsAndCows.cs" />
+    <Compile Include="Assist\Http\HttpApi.cs" />
+    <Compile Include="Assist\Http\WebRequestHelper.cs" />
+    <Compile Include="Assist\Http\_HttpApi.cs" />
     <Compile Include="Assist\Http\_HttpListener.cs" />
     <Compile Include="Assist\Json\JsonHelper.cs" />
     <Compile Include="Assist\Logger\_Logger.cs" />
     <Compile Include="Controllers\_EventController.cs" />
     <Compile Include="Controllers\_EventHandler.cs" />
-    <Compile Include="EventHandlerTest.cs" />
+    <Compile Include="EventBusTest.cs" />
     <Compile Include="Models\CommonMessage.cs" />
     <Compile Include="Models\CommonMessageResponse.cs" />
     <Compile Include="Models\CQRequest\Api\SendDiscussMsg.cs" />

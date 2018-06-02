@@ -9,6 +9,9 @@ using System.Data.SqlClient;
 
 namespace CQBot.Assist.DB
 {
+    /// <summary>
+    /// Sql帮助类
+    /// </summary>
     public class SqlHelper
     {
         //数据库连接字符串

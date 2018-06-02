@@ -14,11 +14,11 @@ namespace CQBot.Assist.Http
     /// </summary>
     public class _HttpListener
     {
+        public string ApiUrl = @"http://localhost:30000/";
         public HttpListener listener = null;
         public HttpListenerContext context = null;
         public HttpListenerRequest request = null;
         public HttpListenerResponse response = null;
-        public string ApiUrl = @"http://localhost:30000/";
         public _HttpListener()
         {
             listener = new HttpListener();
@@ -27,7 +27,7 @@ namespace CQBot.Assist.Http
             {
                 listener.Start();
             }
-            _Logger.PrimaryLine(ApiUrl + " 监听中...");
+            _Logger.PrimaryLine("HttpListener监听中...");
         }
 
         /// <summary>

@@ -1,0 +1,8 @@
+C:\Users\47291\Desktop\新建文件夹\CQBot\CQBot\bin\Debug\CQBot.exe.config
+C:\Users\47291\Desktop\新建文件夹\CQBot\CQBot\bin\Debug\CQBot.exe
+C:\Users\47291\Desktop\新建文件夹\CQBot\CQBot\bin\Debug\CQBot.pdb
+C:\Users\47291\Desktop\新建文件夹\CQBot\CQBot\obj\Debug\CQBot.csprojResolveAssemblyReference.cache
+C:\Users\47291\Desktop\新建文件夹\CQBot\CQBot\obj\Debug\CQBot.exe
+C:\Users\47291\Desktop\新建文件夹\CQBot\CQBot\obj\Debug\CQBot.pdb
+C:\Users\47291\Desktop\新建文件夹\CQBot\CQBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\47291\Desktop\新建文件夹\CQBot\CQBot\bin\Debug\Newtonsoft.Json.xml
